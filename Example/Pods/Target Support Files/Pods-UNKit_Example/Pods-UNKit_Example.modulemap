@@ -1,0 +1,6 @@
+framework module Pods_UNKit_Example {
+  umbrella header "Pods-UNKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UNKit_Example' do
+  pod 'UNKit', :path => '../'
+
+  target 'UNKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

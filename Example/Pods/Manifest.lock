@@ -1,0 +1,16 @@
+PODS:
+  - UNKit (0.1.0)
+
+DEPENDENCIES:
+  - UNKit (from `../`)
+
+EXTERNAL SOURCES:
+  UNKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UNKit: 811d46f771aa61e2bb4edf0ac6828254a2d29e20
+
+PODFILE CHECKSUM: 96e53dde99395ac67655a2c133edff41be76fc54
+
+COCOAPODS: 1.5.3

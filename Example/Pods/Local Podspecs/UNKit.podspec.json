@@ -1,0 +1,22 @@
+{
+  "name": "UNKit",
+  "version": "0.1.0",
+  "summary": "A short description of UNKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ChunXu/UNKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ChunXu": "wuchxu521@163.com"
+  },
+  "source": {
+    "git": "https://github.com/ChunXu/UNKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UNKit/Classes/**/*"
+}
